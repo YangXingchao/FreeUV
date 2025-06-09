@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "FreeUV"
+version = "0.1.0"
+description = ""
+authors = ["yang_xingchao"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+diffusers = "^0.30.0"
+torch = "^2.4.0"
+torchvision = "^0.19.0"
+torchaudio = "^2.4.0"
+gradio = "^4.41.0"
+safetensors = "^0.4.4"
+transformers = "^4.44.0"
+datasets = "^2.21.0"
+accelerate = "^0.33.0"
+spiga = "^0.0.6"
+facelib = {git = "https://github.com/sajjjadayobi/FaceLib.git"}
+albumentations = "^1.4.14"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
