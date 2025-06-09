@@ -31,7 +31,6 @@ wheels/
 datasets/
 resources/
 results/
-checkpoints/
 .poetry.lock
 .pyproject.toml
 environments.sh
