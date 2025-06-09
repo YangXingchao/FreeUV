@@ -29,8 +29,6 @@ wheels/
 *.mp4
 *.avi
 datasets/
-resources/
-results/
 .poetry.lock
 .pyproject.toml
 environments.sh
