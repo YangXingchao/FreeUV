@@ -72,17 +72,6 @@ If you find our work useful for your research, please consider citing our papers
         year={2025},
   }
 ```
-```bibtex
-@article{makeup-extraction,
-          author = {Yang, Xingchao and Taketomi, Takafumi and Kanamori, Yoshihiro},
-          title = {Makeup Extraction of 3D Representation via Illumination-Aware Image Decomposition},
-          journal = {Computer Graphics Forum},
-          volume = {42},
-          number = {2},
-          pages = {293-307},
-          year = {2023}
-      }
-```
 
 ### Acknowledgements
 Here are some of the resources we benefit from:
