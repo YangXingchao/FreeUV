@@ -43,7 +43,8 @@ poetry install
 
 3. Pretrained resources
    
-Following Stable-Makeup, We need [diffusers](https://github.com/huggingface/diffusers/) version of Stable Diffusion v1-5, and download [openai/clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14) and put it in FreeUV\models\image_encoder_l
+Following Stable-Makeup, We need [diffusers](https://github.com/huggingface/diffusers/) version of Stable Diffusion v1-5. 
+Download [openai/clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14) and put it in ```FreeUV\models\image_encoder_l```.
 
 
 4. Download FreeUV resources
