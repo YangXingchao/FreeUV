@@ -22,7 +22,7 @@ Here we describe the setup required for inferece.
 
 ### Requirements
 
-1. Python3.12
+1. Python 3.12
 2. CUDA 12.2
 3. PyTorch 2.4.0
 
